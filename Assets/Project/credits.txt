@@ -1,0 +1,5 @@
+Credits for outside assets:
+
+- Ybot and his sitting animation, downloaded from https://www.mixamo.com/
+- UI windows, found within Unity's standard assets
+- OutlinerShader, downloaded from https://github.com/Shrimpey/UltimateOutline
